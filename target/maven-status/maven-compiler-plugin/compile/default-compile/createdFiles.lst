@@ -1,0 +1,17 @@
+com\blog\Fictitiousapp\entities\User.class
+com\blog\Fictitiousapp\FictitiousAppApplication.class
+com\blog\Fictitiousapp\service\PostService.class
+com\blog\Fictitiousapp\payloads\ApiResponse.class
+com\blog\Fictitiousapp\payloads\PostResponse.class
+com\blog\Fictitiousapp\constants\AppConstants.class
+com\blog\Fictitiousapp\exception\ResourceNotFoundException.class
+com\blog\Fictitiousapp\service\UserService.class
+com\blog\Fictitiousapp\controllers\UserControlller.class
+com\blog\Fictitiousapp\controllers\PostController.class
+com\blog\Fictitiousapp\service\impl\PostServiceImpl.class
+com\blog\Fictitiousapp\payloads\UserDto.class
+com\blog\Fictitiousapp\repositories\UserRepo.class
+com\blog\Fictitiousapp\service\impl\UserServiceImpl.class
+com\blog\Fictitiousapp\payloads\PostDto.class
+com\blog\Fictitiousapp\repositories\PostRepo.class
+com\blog\Fictitiousapp\entities\Post.class
